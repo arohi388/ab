@@ -1,0 +1,29 @@
+h1 {
+    color:rgb(134, 70, 70);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.ray{
+    display:flex;
+    justify-content:space-around;
+    border:solid;
+    background-color:#fff;
+}
+body{
+    background-color: #b24531;
+    border:solid;
+    border: darkred;
+}
+
+.ball{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+
+
+}
+.go{
+    display:flex;
+    justify-content:flex-end;
+    background-color: rgb(167, 49, 49);
+
+}
